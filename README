@@ -1,0 +1,8 @@
+h1. ErlyPrints
+
+An Erlang to Java bridge to allow access of the GraphDB Blueprints API within
+Erlang applications.
+
+h2. Developer(s)
+
+* "Susan Potter":http://susanpotter.net
